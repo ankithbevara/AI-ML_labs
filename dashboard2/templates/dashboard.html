@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Trainer Dashboard
+        </title>
+    </head>
+    <body style="font-family: Arial; padding: 20px;">
+        <h2> Curriculum Submission</h2>
+        <form action="/submit" method="post">
+            <label> Name:</label><br>
+            <input type="text" name="name" required><br><br>
+
+            <label>Role:</label><br>
+            <select name="role">
+                <option value ="Trainer">Trainer</option>
+                <option value="Curriculum Designer">Curriculum Designer</option>
+                <option value="Mentor">Mentor</option>
+            </select><br><br>
+
+            <label>Topic:</label><br>
+            <input type="text" name="topic" placeholder="e.g., Transformers, FastAPI" required><br><br>
+
+            <label>Delivery Mode:</label><br>
+            <input type="radio" name="delivery_mode" value="Live" checked>Live<br>
+            <input type="radio" name="delivery_mode" value="Recorded">Recorded<br><br>
+
+            <button type="submit"> Submit</button>
+        </form>
+    </body>
+</html>

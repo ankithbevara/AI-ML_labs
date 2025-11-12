@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            {{ title }}
+        </title>
+    </head>
+    <body>
+        <h1>Hello, {{ username }}!</h1>
+        <p>Here are your topics:</p>
+        <u1>
+            {% for topic in topics %}
+            <li>
+                {{ topic}}
+            </li>
+            {% endfor %}
+        </u1>
+    </body>
+</html>
