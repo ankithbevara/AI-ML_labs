@@ -15,6 +15,8 @@ Each script demonstrates a core deep-learning or NLP concepts.
 | **RNNTrain_LSTM.py**, **RNNTrain_GRU.py**, **NextWordPred_LSTM_Encoder_Decoder.py** | Recurrent and sequence-to-sequence models for next-word prediction |
 | **arraySum.py**, **assignment1.py**, **assignment1_1.py** | Foundational Python and ML course exercises |
 | **FastTextAssignment** (folder/zip) | Practice tasks using Facebook’s FastText for embeddings |
+| **geminiExamples** (folder) | Multiple tasks like Role-Based, Creative Writing, MultiModular Images using gemini examples |
+| **gemini_videoAssignment** (folder/zip) | Practice task of how you can extract content from a video using gemini model |
 
 ---
 
@@ -59,3 +61,11 @@ pip install -r requirements.txt
 
 4. Run any Example:
 python AutoEncoderExample.py
+
+---
+
+## How to GEMINI KEY
+- To run a gemini model, we need a key, to obtain:
+- Go to google and search for: Google AI Studio Key
+- Top right corner, click "Create API Key"
+- Fill required fields like "Name your key, Project" and click "Create Key"

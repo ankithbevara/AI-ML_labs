@@ -16,6 +16,7 @@ corpus = [
 tokenizer = Tokenizer()
 tokenizer.fit_on_texts(corpus)
 total_words = len(tokenizer.word_index) + 1
+print(total_words)
 
 #create input-output pairs
 input_sequences = []

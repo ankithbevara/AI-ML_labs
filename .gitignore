@@ -32,3 +32,13 @@ venv/
 # OS metadata
 .DS_Store
 Thumbs.db
+
+# API keys
+gemini_key.txt
+**/gemini_key.txt
+
+# Videos
+*.mp4
+*.mov
+*.avi
+
