@@ -67,7 +67,7 @@ python AutoEncoderExample.py
 
 ---
 
-## How to GEMINI KEY
+## How to get a GEMINI KEY
 - To run a gemini model, we need a key, to obtain:
 - Go to google and search for: Google AI Studio Key
 - Top right corner, click "Create API Key"
