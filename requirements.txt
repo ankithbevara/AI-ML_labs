@@ -7,3 +7,5 @@ gensim
 matplotlib
 seaborn
 nltk
+streamlit
+gemini

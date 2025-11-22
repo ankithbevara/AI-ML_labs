@@ -1,6 +1,6 @@
 # AI / ML Hands-On Projects & Assignments
 
-This repository contains my personal practice codes and mini-assignments completed while learning **Python for AI/ML**.
+This repository contains my personal practice codes and mini-assignments completed for learning **Python for AI/ML**.
 
 Each script demonstrates a core deep-learning or NLP concepts.
 
@@ -17,6 +17,7 @@ Each script demonstrates a core deep-learning or NLP concepts.
 | **FastTextAssignment** (folder/zip) | Practice tasks using Facebook’s FastText for embeddings |
 | **geminiExamples** (folder) | Multiple tasks like Role-Based, Creative Writing, MultiModular Images using gemini examples |
 | **gemini_videoAssignment** (folder/zip) | Practice task of how you can extract content from a video using gemini model |
+| **Streamlit** (folder/zip) | Streamlit basics to understand interactive web applications for those focused on data science, machine learning, and data visualization |
 
 ---
 
@@ -26,6 +27,7 @@ Each script demonstrates a core deep-learning or NLP concepts.
 - **Sequence Models** – RNN, LSTM, GRU, Encoder-Decoder  
 - **Feature Representation** – Contextual vs Static embeddings  
 - **General Python ML** – Data preprocessing, model evaluation, vectorization
+- **Streamlit** - create functional web apps with minimal code and without requiring extensive knowledge of web development technologies.
 
 ---
 
@@ -42,6 +44,7 @@ Each script demonstrates a core deep-learning or NLP concepts.
 - Implement neural networks end-to-end using PyTorch or Keras  
 - Explore contextual embeddings and vector similarity  
 - Gain intuition for sequence-based models (text prediction, reconstruction)
+- basic understanding of interactive web applications with streamlit
 
 ---
 
