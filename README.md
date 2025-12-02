@@ -18,7 +18,8 @@ Each script demonstrates a core deep-learning or NLP concepts.
 | **geminiExamples** (folder) | Multiple tasks like Role-Based, Creative Writing, MultiModular Images using gemini examples |
 | **gemini_videoAssignment** (folder/zip) | Practice task of how you can extract content from a video using gemini model |
 | **Streamlit** (folder/zip) | Streamlit basics to understand interactive web applications for those focused on data science, machine learning, and data visualization |
-
+| **HuggingFace Concepts** (folder/zip) | HuggingFace inference tasks and how different models are used for different output generations |
+| **autoTokenizer.ipynb** | What is AutoTokenizer? What are its properties? What is Batching, Padding, Truncation? |
 ---
 
 ## Topics Covered
@@ -28,6 +29,8 @@ Each script demonstrates a core deep-learning or NLP concepts.
 - **Feature Representation** – Contextual vs Static embeddings  
 - **General Python ML** – Data preprocessing, model evaluation, vectorization
 - **Streamlit** - create functional web apps with minimal code and without requiring extensive knowledge of web development technologies.
+- **HuggingFace** - A hub which is a central, community-driven platform and repository for over 2 million models, 500,000 datasets, and 1 million demos.
+- **AutoTokenizers** - It acts as a smart assistant, ensuring the tokenization rules used during a model's training are applied consistently when you use that model.
 
 ---
 

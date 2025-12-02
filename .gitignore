@@ -29,6 +29,7 @@ MLBasics.py
 *.npy
 *.npz
 *.json
+*.txt
 
 # OS metadata
 .DS_Store
